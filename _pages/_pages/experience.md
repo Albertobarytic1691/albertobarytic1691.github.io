@@ -16,7 +16,7 @@ author_profile: true
 - Participated in on-site due diligence for bond financing projects and assisted with bondholder meeting-related matters.
 
 
-## Rongcheng Certified Public Accountants
+## RSM China
 **Audit Intern**
 
 - Participated in financial statement audit projects and assisted with audit procedures across different business cycles.
