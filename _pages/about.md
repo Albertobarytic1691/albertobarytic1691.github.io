@@ -15,7 +15,7 @@ My experience spans accounting and audit internships, financial data analysis, a
 
 I am particularly interested in how technology can improve traditional accounting, auditing, and financial analysis workflows.
 
-## Internship Experience
+## Internship Experience 
 
 **Industrial Securities — Bond Financing Intern**  
 Supported corporate bond financing projects through issuer information collection, financial data analysis, prospectus preparation, and ongoing monitoring. Used Wind and Excel to organize, filter, summarize, and cross-check financial and bond-related data.
