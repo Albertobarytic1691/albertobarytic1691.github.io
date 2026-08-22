@@ -23,7 +23,7 @@ Supported corporate bond financing projects through issuer information collectio
 **RSM China — Audit Intern**  
 Participated in financial statement audits and internal control testing, with experience in sales and receipts processes and financial data verification. Worked with SAP, CRM, and OA systems to support audit procedures and documentation.
 
-**Nanchang Industrial Investment Group — Finance Intern**  
+**Nanchang Industrial Investment Group Co., Ltd. — Finance Intern**  
 Assisted with bank reconciliation, accounts receivable and payable, expense data processing, and cash counting. Supported the reconciliation of accounting records with bank documents and physical cash balances.
 
 ## Selected Projects
